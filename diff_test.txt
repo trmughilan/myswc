@@ -1,2 +1,3 @@
 diff test edited
 another edit
+Ok I edited it.
